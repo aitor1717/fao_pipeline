@@ -4,7 +4,7 @@ This pipeline creates the data source for a Tableau dashboard that illustrates c
 
 ![Dashboard Preview](dash.png)
 
-View interactive dashboard: [Tableau](https://public.tableau.com/app/profile/aitor.bazo/viz/FAOYields/GlobalFoodProductionYield))
+View interactive dashboard: [Tableau](https://public.tableau.com/app/profile/aitor.bazo/viz/FAOYields/GlobalFoodProductionYield)
 
 ---
 Source: FAO (Food and Agriculture Organization)
