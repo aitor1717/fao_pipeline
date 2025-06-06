@@ -1,6 +1,6 @@
 ## Global Food Production Yield Dashboard Pipeline
 
-This pipeline creates the data source for a Tableau dashboard that ilustrates crop yield efficiency globally with a focus on 2022 performance and top producers. Yield is measured as production per cultivated hectare (tn/ha), not total country area.
+This pipeline creates the data source for a Tableau dashboard that illustrates crop yield efficiency globally with a focus on 2022 performance and top producers. Yield is measured as production per cultivated hectare (tn/ha), not total country area.
 
 ![Dashboard Preview](dash.png)
 
